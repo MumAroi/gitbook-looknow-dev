@@ -36,3 +36,7 @@
 * [Macros](rust/macros.md)
 * [What does \`impl ... for\`  vs \`impl\` ?](rust/what-does-impl-...-for-vs-impl.md)
 * [Struct And Trait](rust/struct-and-trait.md)
+
+## Network Security
+
+* [Security Operations Center (SOC)](network-security/security-operations-center-soc.md)
