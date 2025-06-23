@@ -40,3 +40,4 @@
 ## Network Security
 
 * [Security Operations Center (SOC)](network-security/security-operations-center-soc.md)
+* [Careers in Cyber](network-security/careers-in-cyber.md)
