@@ -1,4 +1,3 @@
-
 # CMD
 
 docker ps --format "{{.Names}}"

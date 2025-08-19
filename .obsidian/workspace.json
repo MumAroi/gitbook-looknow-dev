@@ -195,10 +195,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e3ac62a19b2458bd",
+  "active": "1d1721340fd494fa",
   "lastOpenFiles": [
-    "networking/http-and-https.md",
+    "networking/tcp-and-udp-and-icmp.md",
     "note/cmd.md",
+    "networking/http-and-https.md",
     "README.md",
     "note",
     "data-engineer/คำศัพย์ที่เจอบ่อยๆ.md",
@@ -214,7 +215,6 @@
     "goalng/basic-restful-api.md",
     "network-security/security-operations-center-soc.md",
     "network-security/careers-in-cyber.md",
-    "networking/tcp-and-udp-and-icmp.md",
     "networking/ssl.md",
     "SUMMARY.md",
     "Untitled 1.base"
