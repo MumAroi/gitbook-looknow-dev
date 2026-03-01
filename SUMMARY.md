@@ -34,8 +34,12 @@
 
 * [Error Handling Result](rust/error-handling-result.md)
 * [Macros](rust/macros.md)
-* [What does \`impl ... for\`  vs \`impl\` ?](rust/what-does-impl-...-for-vs-impl.md)
+* [What does \`impl ... for\` vs \`impl\` ?](rust/what-does-impl-...-for-vs-impl.md)
 * [Struct And Trait](rust/struct-and-trait.md)
+
+## 🦎 Zig
+
+* [Learn Day 1](zig/learn-day-1.md)
 
 ## Network Security
 
