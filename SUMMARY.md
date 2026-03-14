@@ -39,7 +39,7 @@
 
 ## 🦎 Zig
 
-* [Learn Day 1](zig/learn-day-1.md)
+* [Init](zig/init.md)
 
 ## Network Security
 
