@@ -37,10 +37,6 @@
 * [What does \`impl ... for\` vs \`impl\` ?](rust/what-does-impl-...-for-vs-impl.md)
 * [Struct And Trait](rust/struct-and-trait.md)
 
-## 🦎 Zig
-
-* [Init](zig/init.md)
-
 ## Network Security
 
 * [Security Operations Center (SOC)](network-security/security-operations-center-soc.md)
